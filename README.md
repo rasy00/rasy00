@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 </div>
 
 ## :fire: My Stats :
-[![github streak](https://github-readme-streak-stats.herokuapp.com?user=rasy00&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rasy00&theme=tokyonight)](https://git.io/streak-stats)
 <div align="center">
   <h3 >----- You can see my pinned code in below -----</h3>
 </div>
